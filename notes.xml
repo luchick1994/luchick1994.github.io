@@ -1,53 +1,115 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-<title>Сабина Заметки</title>
+<title>Gregor Santner's Blog</title>
 <link>https://de-live-gdev.github.io/</link>
 <atom:link href="https://de-live-gdev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-<pubDate>Mon, 18 Apr 2016 12:57:00 +0000</pubDate>
-<lastBuildDate>Mon, 18 Apr 2016 12:57:00 +0000</lastBuildDate>
+<pubDate>Fri, 25 Mar 2016 12:57:00 +0000</pubDate>
+<lastBuildDate>Fri, 25 Mar 2016 12:57:00 +0000</lastBuildDate>
 <item>
-<title>Тест</title>
+<title>F-Droid Repo on gh-pages</title>
 <description>
-<p>Вчера был хороший день<br/> </p> <p>Было солнечно</p>
+<p>Yesterday I tried publishing an <a href="http://f-droid.org/">F-Droid</a> repository on Github-Pages.<br /> After my first successful tries to download apps using F-Droid I added a small frontend using Jekyll.</p> <p>You can find my public F-Droid repo here:<br /> <a href="https://de-live-gdev.github.io/fdroid/">https://de-live-gdev.github.io/fdroid/</a></p> <p>I already had experience with build-services, including F-Droid for Android apps. Because I also use it for my private projects I thought why not create a public repo also.<br /> As there will be a small count of apps, the git-repo limit of 1GB seems to be enough for now.</p> <h2 id="what-is-f-droid">What is F-Droid?</h2> <blockquote> <p>F-Droid is an installable catalogue of...
 </description>
 <pubDate>Wed, 13 Jan 2016 17:35:26 +0000</pubDate>
 <link>
-https://github.io
+https://de-live-gdev.github.io/2016/01/13/f-droid-repo-on-gh-pages.html
 </link>
 <guid isPermaLink="true">
-https://github.io
+https://de-live-gdev.github.io/2016/01/13/f-droid-repo-on-gh-pages.html
 </guid>
 <category>android</category>
 </item>
 <item>
-<title>Новости Апреля</title>
+<title>Published WP 8.1 Projects</title>
 <description>
-<p>И сегодня тоже хорогий день</p>
+<p>Some time ago there was a Windows-Phone course at my University.<br /> There were basically two small (WP 8.1) projects to create. I decided to put them on GitHub because I thought maybe someone could need the sources / want to create something similar.<br /> Note that these two projects are final and there will be no updates or support.<br /> Feel free to use, modify, or whatever you want to do with it.</p> <h2 id="project-1-simple-calculator">Project 1: Simple Calculator</h2> <p>Just a basic calculator including memory settings.<br /> Source: <a href="https://github.com/de-live-gdev/SimpleCalc-WP">https://github.com/de-live-gdev/SimpleCalc-WP</a></p> <p><img src="https://cloud.githubusercontent.com/assets/6735650/12023106/6ef4e518-ad96-11e5-99f4-9e58f32ec327.png" width="60%" /></p> <h2 id="project-2-simple-notes">Project 2: Simple Notes</h2> <p>Note...
 </description>
 <pubDate>Mon, 28 Dec 2015 19:29:32 +0000</pubDate>
 <link>
-https://github.io
+https://de-live-gdev.github.io/dev/2015/12/28/published-wp-8-1-projects.html
 </link>
 <guid isPermaLink="true">
-https://github.io
+https://de-live-gdev.github.io/dev/2015/12/28/published-wp-8-1-projects.html
 </guid>
 <category>wp</category>
 <category>dev</category>
 </item>
 <item>
-<title>Чудева</title>
+<title>XPrivacy in App Info updated</title>
 <description>
-<p>Наш кот сегодня родила вчера котят</p>
+<p>The XPosed module <strong>XPrivacy in App Info</strong> was updated to version v1.1 today.</p> <p>Changes:</p> <ul> <li>Gradle as build system</li> <li>XPosed API updated to v54</li> <li>App icon added</li> </ul> <p><br /> <a href="https://github.com/de-live-gdev/XPrivacyAppInfo#downloads"> <img src="/assets/img/blog/xprivacy_in_app_info_small.png" alt="" /> Download</a></p>
 </description>
 <pubDate>Tue, 17 Nov 2015 11:29:02 +0000</pubDate>
 <link>
-https://github.io
+https://de-live-gdev.github.io/dev/2015/11/17/xprivacy-in-app-info-updated.html
 </link>
 <guid isPermaLink="true">
-https://github.io
+https://de-live-gdev.github.io/dev/2015/11/17/xprivacy-in-app-info-updated.html
 </guid>
 <category>android</category>
 <category>dev</category>
+</item>
+<item>
+<title>Bitcoin revisited</title>
+<description>
+<p>A recent discussion about bitcoin with some student colleagues made me interested in crypto-currency once again.<br /> It’s been a while since the last time I tried bitcoin, conversion rates went really high since then.</p> <p>So I decided to start with bitcoin again. The old wallet service where I stored my bits seems not to be active anymore. This time I will count on the <a href="https://bitcoin.org/en/download">Bitcoin Core</a> client (&amp; a local wallet), unfortunately it still needs some days to get in sync with the blockchain.</p> <p><img src="/assets/img/blog/bitcoin.svg" width="25%" height="25%" /></p> <p> <br />  <br />  </p> <h2 id="a-namedonateaspan-classfa-fa-btcspan-donations"><a name="donate"></a><span class="fa...
+</description>
+<pubDate>Mon, 16 Nov 2015 21:33:29 +0000</pubDate>
+<link>
+https://de-live-gdev.github.io/personal/2015/11/16/bitcoin-revisited.html
+</link>
+<guid isPermaLink="true">
+https://de-live-gdev.github.io/personal/2015/11/16/bitcoin-revisited.html
+</guid>
+<category>personal,bitcoin</category>
+<category>personal</category>
+</item>
+<item>
+<title>Cherry updated</title>
+<description>
+<p>Today the Kimai Android app got updated, as it shares the code base with Cherry this was also updated. This results in version 1.1:</p> <ul> <li>Material design</li> <li>Updated images</li> <li>Gradle build system</li> <li>Refactoring of whole code base</li> </ul> <p><br /> <a href="https://github.com/de-live-gdev/cherrymusic_android#download"> <img src="/assets/img/blog/cherry_logo_small.png" alt="" /> Download</a></p>
+</description>
+<pubDate>Mon, 05 Oct 2015 20:29:10 +0000</pubDate>
+<link>
+https://de-live-gdev.github.io/dev/2015/10/05/cherry-updated-to-v1.1.html
+</link>
+<guid isPermaLink="true">
+https://de-live-gdev.github.io/dev/2015/10/05/cherry-updated-to-v1.1.html
+</guid>
+<category>android</category>
+<category>dev</category>
+</item>
+<item>
+<title>Kimai TimeTracker updated</title>
+<description>
+<p>Lately the Kimai Android app got some love, all changes were put into the today released version v1.11.</p> <ul> <li>Material design</li> <li>Updated images</li> <li>Gradle build system</li> <li>Refactoring of whole code base</li> </ul> <p><br /> <a href="https://github.com/de-live-gdev/kimai-android#download"> <img src="/assets/img/blog/kimai_logo_small.png" alt="" /> Download</a></p>
+</description>
+<pubDate>Mon, 05 Oct 2015 10:09:10 +0000</pubDate>
+<link>
+https://de-live-gdev.github.io/dev/2015/10/05/kimai-timetracker-updated-to-v1.11.html
+</link>
+<guid isPermaLink="true">
+https://de-live-gdev.github.io/dev/2015/10/05/kimai-timetracker-updated-to-v1.11.html
+</guid>
+<category>android</category>
+<category>dev</category>
+</item>
+<item>
+<title>GitHub Pages & Jekyll setup on Ubuntu 14.04</title>
+<description>
+<p><img src="https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_fork.png" alt="Octocat" height="80" /> <img src="http://jekyllrb.com/img/logo-2x.png" alt="Jekyll" height="80" /><br /> Here I will describe steps I did take to get my personal GitHub Pages userpage online, based on Jekyll.<br /> Environment: Ubuntu 14.04 x64, ruby 2.0.0</p> <ul> <li><a href="/2015/06/25/setup_github_pages_ubuntu1404/#setting-up-environment">Setting up environment</a></li> <li><a href="/2015/06/25/setup_github_pages_ubuntu1404/#create-repository">Create repository</a></li> <li><a href="/2015/06/25/setup_github_pages_ubuntu1404/#getting-the-base">Getting the base</a></li> <li><a href="/2015/06/25/setup_github_pages_ubuntu1404/#publishing">Publishing</a></li> <li><a href="/2015/06/25/setup_github_pages_ubuntu1404/#adding-content">Adding content</a></li> </ul> <h2 id="setting-up-environment">Setting up environment</h2> <div class="highlighter-rouge"><pre class="highlight"><code># Install ruby using package manager sudo apt-get install ruby ruby-dev ruby2.0 ruby2.0-dev </code></pre> </div> <p>If <code class="highlighter-rouge">ruby --version</code> tells a version lower than 2.0, maybe these steps are needed (Caution!)</p> <!--more--> <p>This is actually a bug: <a href="https://bugs.launchpad.net/ubuntu/+source/ruby2.0/+bug/1310292">https://bugs.launchpad.net/ubuntu/+source/ruby2.0/+bug/1310292</a><br...
+</description>
+<pubDate>Thu, 25 Jun 2015 00:00:00 +0000</pubDate>
+<link>
+https://de-live-gdev.github.io/2015/06/25/setup_github_pages_ubuntu1404.html
+</link>
+<guid isPermaLink="true">
+https://de-live-gdev.github.io/2015/06/25/setup_github_pages_ubuntu1404.html
+</guid>
+<category>howto</category>
+<category>linux</category>
+<category>git</category>
+<category>web</category>
 </item>
 </channel>
 </rss>
